@@ -89,7 +89,7 @@ font-size: 40px;
   font-size: 40px;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 800px) {
   .nav-container {
     top: 50%; 
     left: 0; 
@@ -99,11 +99,11 @@ font-size: 40px;
   }
 
   .type {
-    font-size: 30px;
+    font-size: 25px;
   }
 
   .reload {
-    font-size: 30px;
+    font-size: 25px;
   }
 }
 
