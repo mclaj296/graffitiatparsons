@@ -89,7 +89,7 @@ font-size: 40px;
   font-size: 40px;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
   .nav-container {
     top: 50%; 
     left: 0; 
